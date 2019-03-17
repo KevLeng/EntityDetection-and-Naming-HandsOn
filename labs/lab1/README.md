@@ -16,8 +16,7 @@ In this lab, we will install the Dynatrace OneAgent in the Production and Stagin
 
 5. Run the Exercise 1 – AgentInstall.bat file
 
-Right click on the Exercise1 – AgentInstall.bat file
-Select Run as administrator
+Right click on the Exercise1 – AgentInstall.bat file, select Run as administrator
 
 ![AgentInstall.bat file - Run as Administrator](/assets/run-as-administrator.png)
 
