@@ -8,7 +8,7 @@ In this lab, we will create automatic tagging rules to tag  Staging and Producti
 
 2. Add new tagging rule for **production**
 
-## Name: Production
+Tag Name: Production
 
 Rule applied to Services.
 
@@ -23,7 +23,7 @@ Have it apply to underlying process groups of matching services.
 
 3. Add new tagging rule **staging**
 
-## Name: Staging
+Tag Name: Staging
 
 Rule applied to Services.
 
