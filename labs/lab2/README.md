@@ -6,9 +6,9 @@ In this lab, we will create automatic tagging rules to tag  Staging and Producti
 
 1. Access Automatic tagging rules, select **Settings -> Tags -> Automatic Tagging**
 
-2. Add new tagging rule for production
+2. Add new tagging rule for **production**
 
-Name: Production
+## Name: Production
 
 Rule applied to Services.
 
@@ -20,11 +20,10 @@ Have it apply to underlying process groups of matching services.
 
 ![HostGroup Auto Tagging](/assets/hostgroup-autotag.PNG)
 
-screenshot for tagging
 
-3. Add new tagging rule staging
+3. Add new tagging rule **staging**
 
-Name: Staging
+## Name: Staging
 
 Rule applied to Services.
 
@@ -36,7 +35,5 @@ Have it apply to underlying process groups of matching services.
 
 ![HostGroup Auto Tagging](/assets/hostgroup-autotag-staging.PNG)
 
-
-screenshot for tagging
 
 :arrow_up: [Back to TOC](/README.md)
