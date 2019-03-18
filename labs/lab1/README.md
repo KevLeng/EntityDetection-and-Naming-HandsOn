@@ -4,13 +4,19 @@ In this lab, we will install the Dynatrace OneAgent in the Production and Stagin
 
 ## Instructions
 
-1. Use the provided credentials to log in to your Staging server.
+1. Use the provided credentials to log in to your **Production** server.
 2. Login to your Dynatrace environment using the credentials provided.
 3. Download OneAgent MSI installer.
 
 ![Download OneAgent for Windows](/assets/oneagent-msi-installer.png)
 
 4. Modify the Exercise 1 – AgentInstall.bat file (found on the desktop) with the appropriate information. The appropriate info can be found in the intall.bat file contained in the MSI package.
+
+You need to collect **token** & **token** from the install.bat and populate in the Exercise 1 – AgentInstall.bat file
+
+Also, you'll need to change the file name referenced to version of the MSI you have downloaded.
+
+Copy the OneAgent MSI file to C:\
 
 ![Modify the Exercise 1 – AgentInstall.bat file](/assets/install-batfile.png)
 
