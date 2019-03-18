@@ -14,7 +14,7 @@ In this lab, we will install the Dynatrace OneAgent in the Production and Stagin
 
 You need to collect **token** & **token** from the install.bat and populate in the Exercise 1 – AgentInstall.bat file
 
-Also, you'll need to change the file name referenced to version of the MSI you have downloaded.
+Also, you'll need to change the file name referenced to the version of the MSI you have downloaded.
 
 Copy the OneAgent MSI file to C:\
 
@@ -29,6 +29,8 @@ Right click on the Exercise1 – AgentInstall.bat file, select Run as administra
 6. Start Easy Travel - UEM - Standard senario
 
 7. Check Host appears in Dynatrace and has the appropriate HostGroup assigned.
-8. Repeat above instructions for Production server.
+8. Repeat above instructions for Staging server. 
+
+Please ensure you set the hostgroup to Staging for the Staging server.
 
 :arrow_up: [Back to TOC](/README.md)
