@@ -22,6 +22,7 @@ Apply to processes groups and hosts.
 
 ![HostGroup Auto Tagging](/assets/management-zone-production.PNG)
 
+
 ## Staging
 
 ![HostGroup Auto Tagging](/assets/management-zone-staging.PNG)
