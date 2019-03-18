@@ -4,7 +4,7 @@ In this lab, we will create automatic tagging rules to tag  Staging and Producti
 
 ## Instructions
 
-1. Access Automatic tagging rules, select **Settings -> Tags -> Automatic Tagging**
+1. Access Automatic tagging rules, select **Settings -> Tags -> Automatically applied tags**
 
 2. Add new tagging rule for **production**
 
