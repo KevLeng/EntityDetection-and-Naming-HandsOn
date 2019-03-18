@@ -14,7 +14,7 @@ Management zone filters apply to all views that display multiple entities, such 
 
 2. Create management Zones for Production and Staging
 
-Map your hosts into the correct zone using the Service tag created in lab 2.
+Map your hosts into the correct zone using the **Service Tag** created in lab 2.
 
 Apply to processes running on matching hosts.
 
