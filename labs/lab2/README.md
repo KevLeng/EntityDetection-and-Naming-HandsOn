@@ -13,6 +13,8 @@ Name: Production
 Have it apply to all Hosts where Host group equals ‘Production’
 Have it apply to all processes running on matching hosts
 
+!hostgroup-autotag.PNG
+
 screenshot for tagging
 
 3. Add new tagging rule staging
