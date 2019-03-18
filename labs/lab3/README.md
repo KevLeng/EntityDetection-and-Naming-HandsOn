@@ -16,13 +16,13 @@ Management zone filters apply to all views that display multiple entities, such 
 
 Map your hosts into the correct zone using the **Service Tag** created in lab 2.
 
-Apply to processes running on matching hosts.
+Apply to processes groups and hosts.
 
-**Production**
+## Production
 
 ![HostGroup Auto Tagging](/assets/management-zone-production.PNG)
 
-**Staging**
+## Staging
 
 ![HostGroup Auto Tagging](/assets/management-zone-staging.PNG)
 
