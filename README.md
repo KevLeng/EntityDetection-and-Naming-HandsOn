@@ -2,9 +2,7 @@
 
 This repository contains labs for the Entity Detection & Naming Hands-On Bootcamp March  2019.
 
-## TOC
-
-[Preparing our Environments](/labs/preparation)
+## Contents
 
 [**Lab 1:** Install OneAgent on your production & test hosts with appropriate host groups](labs/lab1)
 
