@@ -12,14 +12,18 @@ Management zone filters apply to all views that display multiple entities, such 
 
 1. Access Automatic tagging rules, select **Settings -> Preferences -> Management Zones**
 
-2. Create management Zones for Production and Test
+2. Create management Zones for Production and Staging
 
-Map your hosts into the correct zone using the host group.
+Map your hosts into the correct zone using the Service tag created in lab 2.
 
 Apply to processes running on matching hosts.
 
-View the different zones through the UI.
+**Production**
 
-screenshot for management zones
+![HostGroup Auto Tagging](/assets/management-zone-production.PNG)
+
+**Staging**
+
+![HostGroup Auto Tagging](/assets/management-zone-staging.PNG)
 
 :arrow_up: [Back to TOC](/README.md)
