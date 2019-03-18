@@ -10,10 +10,15 @@ In this lab, we will create automatic tagging rules to tag  Staging and Producti
 
 Name: Production
 
-Have it apply to all Hosts where Host group equals ‘Production’
-Have it apply to all processes running on matching hosts
+Rule applied to Services.
 
-!hostgroup-autotag.PNG
+Rule applies to entities matching Host Group : **Production**
+
+Have it apply to underlying hosts of matching services.
+
+Have it apply to underlying process groups of matching services.
+
+![HostGroup Auto Tagging](/assets/hostgroup-autotag.PNG)
 
 screenshot for tagging
 
@@ -21,8 +26,15 @@ screenshot for tagging
 
 Name: Staging
 
-Have it apply to all Hosts where Host group equals ‘Staging’
-Have it apply to all processes running on matching hosts
+Rule applied to Services.
+
+Rule applies to entities matching Host Group : **Staging**
+
+Have it apply to underlying hosts of matching services.
+
+Have it apply to underlying process groups of matching services.
+
+![HostGroup Auto Tagging](/assets/hostgroup-autotag-staging.PNG)
 
 
 screenshot for tagging
