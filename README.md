@@ -4,9 +4,9 @@ This repository contains labs for the Entity Detection & Naming Hands-On Bootcam
 
 ## Contents
 
-[**Lab 1:** Install OneAgent on your production & test hosts with appropriate host groups](labs/lab1)
+[**Lab 1:** Install OneAgent on your production & staging hosts with appropriate host groups](labs/lab1)
 
-[**Lab 2:** Creating Automatic Taging Rule](labs/lab2)
+[**Lab 2:** Creating Automatic Taging Rule based on Host Group](labs/lab2)
 
 [**Lab 3:** Create Management Zones - Separate your environment into Production and Staging](labs/lab3)
 
